@@ -1,0 +1,16 @@
+.message{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 50;
+  color: #ff0000;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.info{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 25;
+color: rgb(26, 25, 25);
+margin-left: 100px;
+margin-top: 50px;
+} 
+
